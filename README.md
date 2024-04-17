@@ -1,19 +1,10 @@
-<article>
-            <header>
-                <h1>Giới Thiệu Nhà Cái VNQ8 Rinh Quà Khủng Mỗi Ngày</h1>
-            </header>
+<h1>Giới Thiệu Nhà Cái VNQ8 Rinh Quà Khủng Mỗi Ngày</h1>
             <p><a href="https://vnq8.today/" title="VNQ8">VNQ8</a> là một trong những địa chỉ cá cược được tin
                 tưởng và ưa chuộng nhất tại Việt Nam hiện nay. Với sự đa dạng về sản phẩm cá cược và các chương trình
                 khuyến mãi hấp dẫn đã thu hút một lượng lớn người chơi tham gia. Trong bài viết này, chúng ta sẽ cùng
                 VNQ8 tìm hiểu điểm mạnh của thương hiệu.
             </p>
-            <div class="text-center">
-                <figure>
-                    <img class="col-md-8 col-12"
-                        src="https://vnq8.today/wp-content/uploads/2024/03/vnq8-dang-cap-casino-tao-nen-thuong-hieu.webp">
-                    <figcaption class="wp-element-caption"><em>Nhà cái VNQ8</em></figcaption>
-                </figure>
-            </div>
+            <img style="width: 100%; height: auto;" src="https://vnq8.today/wp-content/uploads/2024/03/vnq8-dang-cap-casino-tao-nen-thuong-hieu.webp">
             <h2>Thông tin về nhà cái VNQ8</h2>
             <p>
                 Là một trong những nhà cái có lịch sử hoạt động lâu đời tại Việt Nam, đã thành lập từ năm 2015. Với sự
@@ -91,12 +82,12 @@
             </p>
             <h3>Trò chơi của AE Play – JDB</h3>
             <p>
-                <a href="https://vnq8.today/">Nhà cái VNQ8</a> hợp tác với AE Play và JDB để mang đến nhiều trò chơi đa dạng và thú vị. Người chơi có thể trải
+                <a href="https://vnq8.today/" title="VNQ8">Nhà cái VNQ8</a> hợp tác với AE Play và JDB để mang đến nhiều trò chơi đa
+                dạng và thú vị. Người chơi có thể trải
                 nghiệm các trò slot, trò chơi khác từ AE điện tử khác với đồ họa đẹp và âm thanh sống động.
                 Với sự phong phú về trò chơi và dịch vụ cung cấp trải nghiệm cá cược trực tuyến đa dạng, đảm bảo không
                 gian giải trí luôn mới mẻ. Giao diện thân thiện và dễ sử dụng giúp người chơi dễ dàng khám phá và tham
                 gia vào thế giới giải trí trực tuyến.
-
             </p>
             <h2>Kết luận</h2>
             <p>
@@ -105,4 +96,3 @@
                 cảm thấy yên tâm khi tham gia cá cược. Hãy đăng ký tài khoản ngay hôm nay để trải nghiệm trò chơi và ưu
                 đãi tốt nhất.
             </p>
-        </article>
