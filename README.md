@@ -1,37 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Giới Thiệu Nhà Cái VNQ8 Rinh Quà Khủng Mỗi Ngày</title>
-    <meta name="description"
-        content="VNQ8 là một trong những nhà cái trực tuyến hàng đầu tại Việt Nam, nổi tiếng với sự đa dạng trong dịch vụ giải trí cá cược.">
-    <meta property="og:title" content="Giới Thiệu Nhà Cái VNQ8 Rinh Quà Khủng Mỗi Ngày">
-    <meta property="og:description"
-        content="VNQ8 là một trong những nhà cái trực tuyến hàng đầu tại Việt Nam, nổi tiếng với sự đa dạng trong dịch vụ giải trí cá cược.">
-    <meta property="og:image"
-        content="https://vnq8.today/wp-content/uploads/2024/03/vnq8-dang-cap-casino-tao-nen-thuong-hieu.webp">
-    <meta property="og:image:width" content="800">
-    <meta property="og:image:height" content="400">
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Giới Thiệu Nhà Cái VNQ8 Rinh Quà Khủng Mỗi Ngày">
-    <meta name="twitter:description"
-        content="VNQ8 là một trong những nhà cái trực tuyến hàng đầu tại Việt Nam, nổi tiếng với sự đa dạng trong dịch vụ giải trí cá cược.">
-    <meta name="twitter:image"
-        content="https://vnq8.today/wp-content/uploads/2024/03/vnq8-dang-cap-casino-tao-nen-thuong-hieu.webp">
-    <meta name="twitter:image:width" content="800">
-    <meta name="twitter:image:height" content="400">
-    <link rel="icon" href="https://vnq8.today/wp-content/uploads/2024/03/vnq8-512x512-1-150x150.png" sizes="32x32">
-    <link rel="icon" href="https://vnq8.today/wp-content/uploads/2024/03/vnq8-512x512-1-298x300.png" sizes="192x192">
-    <link rel="apple-touch-icon" href="https://vnq8.today/wp-content/uploads/2024/03/vnq8-512x512-1-298x300.png">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
-        integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
-</head>
-
-<body>
-    <main class="container">
-        <article>
+<article>
             <header>
                 <h1>Giới Thiệu Nhà Cái VNQ8 Rinh Quà Khủng Mỗi Ngày</h1>
             </header>
@@ -139,7 +106,3 @@
                 đãi tốt nhất.
             </p>
         </article>
-    </main>
-</body>
-
-</html>
